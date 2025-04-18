@@ -2,14 +2,6 @@
 
 **ScanneZ** is a network scanning and vulnerability testing tool that performs DNS resolution, port scanning, HTTP vulnerability testing, and HTTP header checking for security analysis.
 
----
-
-## **Table of Contents**
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [License](#license)
 
 ---
 
